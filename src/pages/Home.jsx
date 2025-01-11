@@ -70,7 +70,7 @@ const Home = () => {
       {/* Vidéo intégrée à droite*/}
     <div className="w-full flex justify-center">
       <video
-        src="../../public/code.mp4" // Remplace par le chemin de ta vidéo
+        src="/code.mp4" // Remplace par le chemin de ta vidéo
         className="rounded-lg shadow-lg w-full max-w-lg"
         autoPlay
         loop
