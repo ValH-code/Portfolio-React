@@ -344,7 +344,7 @@ const Home = () => {
         </div>
 
         <a
-          href="../../public/HAMON_VALENTIN.pdf" // Remplace par le chemin réel de ton fichier CV
+          href="/HAMON_VALENTIN.pdf" // Remplace par le chemin réel de ton fichier CV
           download="CV_Valentin_Hamon"
           className="bg-gray-800 text-white py-3 px-6 rounded-lg hover:bg-gray-600 transition flex items-center"
         >
